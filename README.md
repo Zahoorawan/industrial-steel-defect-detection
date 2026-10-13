@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# YOLO-Based Industrial Steel Defect Detection
 
 
@@ -142,3 +143,7 @@ Predictions may be incorrect, especially for visually similar or subtle defects.
 
 Add an appropriate license after confirming the dataset's and other dependencies' license terms.
 
+=======
+# industrial-steel-defect-detection
+ndustrial-steel-defect-detection
+>>>>>>> edc1300280fb51be7c240c0a36aec87db2d65dad
