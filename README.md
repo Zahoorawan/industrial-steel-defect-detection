@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 \# YOLO-Based Industrial Steel Defect Detection
 
 
@@ -146,4 +146,4 @@ Add an appropriate license after confirming the dataset's and other dependencies
 =======
 # industrial-steel-defect-detection
 ndustrial-steel-defect-detection
->>>>>>> edc1300280fb51be7c240c0a36aec87db2d65dad
+
